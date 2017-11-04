@@ -8,10 +8,10 @@ document.addEventListener("DOMContentLoaded", function() {
         lastTime = 0;
         fps = 59;
         t = 0;
-        d = 2000;
+        d = 2000; // change to fit speed of scrolling to your needs
         scrollingNumberTo = 0;
         
-  // returns the number of pixels that the document is currently scrolled vertically
+  // this returns us the number of pixels that the document is currently scrolled vertically
   function scrollingNumber(){
     return window.scrollY || window.pageYOffset || document.body.scrollTop + (document.documentElement && document.documentElement.scrollTop || 0)
   };
