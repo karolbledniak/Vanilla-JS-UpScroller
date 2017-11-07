@@ -181,7 +181,7 @@ window.addEventListener('scroll', function(){
 ```
 
 ## Autor 
-* **Karol Błedniak**
+* **Karol Błędniak**
 * [LinkedIn](https://www.linkedin.com/in/karol-b%C5%82%C4%99dniak-215407aa/) - my site with CV
 
 ## License
