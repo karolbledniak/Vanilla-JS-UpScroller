@@ -130,9 +130,11 @@ Yes, you can!
 
 ### HTML
 Change **back to top &nbsp;&#5169** in index.html: 
+
 ``
 <button id="up-button" tabindex="1" aria-label="back to top">back to top &nbsp;&#5169;</button>
 ``
+
 to rename the UpScroller button.
 ### CSS
 Change value of **right** and **width** in main.css (below code) to preferred value of buttons width.
