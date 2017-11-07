@@ -10,7 +10,7 @@ You can use this feature almost everytime! Especialy when you have long website,
 ## How exactly is this supposed to function on the website?
 In default version this should looks like that:
 
-# [UpScroller]() 
+# [UpScroller](https://karolbledniak.github.io/Vanilla-JS-UpScroller/) 
 
 ## Which browers make this feature?
 
